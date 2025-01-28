@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 msgErrorAccion = 'Error: Accion no valida'
 msgErrorNumero = 'Error: Tipo de numero no valido'
 mgsError = "Error: Ingrese un valor valido"
