@@ -1,0 +1,1 @@
+# Video 57 trata de las claves primarias (Ya lo conocemos)
