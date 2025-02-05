@@ -4,7 +4,7 @@ import psycopg2 as pg
 miConexion = pg.connect(
     dbname="bd_python",
     user="postgres",
-    password="felipeBit69*",
+    password="",
     host="localhost",
 )
 miConexion.autocommit = True  # Permite que los cambios se guarden automáticamente
